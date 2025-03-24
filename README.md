@@ -1,4 +1,4 @@
-This is fork of [Now Archived Repo](https://github.com/postmanlabs/observability-cli) 
+This is a fork of a [now-archived repo.](https://github.com/postmanlabs/observability-cli) 
 
 # Welcome! 👋
 
